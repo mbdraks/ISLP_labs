@@ -14,3 +14,6 @@ pytorch-lightning==2.2.5
 torchinfo==1.8.0
 torchmetrics==1.4.0.post0
 ISLP==0.4.0
+# user
+seaborn
+pyarrow # to save parquet files
